@@ -39,7 +39,7 @@ Please install dependencies:
 The order of survey images is mapped to the original image names of SyRIP 700 real data and saved in 'img_name700_map.npy'.
 
 All above input data resources are placed as follows:
- ```
+   ```
    ${SYMMETRY_ROOT}
    ├── data
    |    ├── SyRIP_2d_gt
