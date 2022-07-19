@@ -2,7 +2,7 @@
 
 Codes and experiments for the following paper: 
 
-Xiaofei Huang, Michael Wan, Lingfei Luan, Sarah Ostadabbas, “Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations"
+Xiaofei Huang, Michael Wan, Lingfei Luan, Bethany Tunik, Sarah Ostadabbas, “Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations" July 2022.
 
 Contact: 
 
