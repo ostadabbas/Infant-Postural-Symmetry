@@ -1,6 +1,6 @@
 matplotlib
 numpy
-pandas==0.24.1
+pandas==1.1.1
 sympy
 seaborn
 scikit-learn
