@@ -2,7 +2,7 @@
 
 Codes and experiments for the following paper: 
 
-Xiaofei Huang, Michael Wan, Lingfei Luan, Bethany Tunik, Sarah Ostadabbas, “Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations" July 2022.
+Xiaofei Huang, Michael Wan, Lingfei Luan, Bethany Tunik, Sarah Ostadabbas, “Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations," July 2022.
 
 Contact: 
 
@@ -77,8 +77,26 @@ You can also change the angle threshold value in the script.
 
 ## Citation
 
-If you use our code or models in your research, please cite with:
+If you use our code or models in your research, please cite these paper:
 
+```
+@inproceedings{huang2022isymmetry,
+  title={Computer Vision to the Rescue: Infant Postural Symmetry Estimation from
+Incongruent Annotations},
+  author={Huang, Xiaofei and Wan, Michael and Luan, Lingfei and Tunik, Bethany and  Ostadabbas, Sarah},
+  booktitle={arXive preprint: https://arxiv.org/pdf/2207.09352v1.pdf},
+  month     = {July},
+  year      = {2022}
+}
+``````
+@inproceedings{huang2021infant,
+  title={Invariant Representation Learning for Infant Pose Estimation with Small Data},
+  author={Huang, Xiaofei and Fu, Nihang and Liu, Shuangjun and Ostadabbas, Sarah},
+  booktitle={IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2021},
+  month     = {December},
+  year      = {2021}
+}
+```
 
 
 ## Acknowledgement
