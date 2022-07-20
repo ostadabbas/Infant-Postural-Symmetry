@@ -88,7 +88,8 @@ Incongruent Annotations},
   month     = {July},
   year      = {2022}
 }
-``````
+```
+```
 @inproceedings{huang2021infant,
   title={Invariant Representation Learning for Infant Pose Estimation with Small Data},
   author={Huang, Xiaofei and Fu, Nihang and Liu, Shuangjun and Ostadabbas, Sarah},
