@@ -84,7 +84,7 @@ If you use our code or models in your research, please cite these paper:
   title={Computer Vision to the Rescue: Infant Postural Symmetry Estimation from
 Incongruent Annotations},
   author={Huang, Xiaofei and Wan, Michael and Luan, Lingfei and Tunik, Bethany and  Ostadabbas, Sarah},
-  booktitle={arXive preprint: https://arxiv.org/pdf/2207.09352v1.pdf},
+  booktitle={arXiv preprint: https://arxiv.org/pdf/2207.09352v1.pdf},
   month     = {July},
   year      = {2022}
 }
@@ -97,6 +97,16 @@ Incongruent Annotations},
   month     = {December},
   year      = {2021}
 }
+```
+```
+@inproceedings{liu2022heuristic,
+  title={Heuristic Weakly Supervised 3D Human Pose Estimation in Novel Contexts without Any 3D Pose Ground Truth},
+  author={Liu, Shuangjun and Wan, Michael  and Huang, Xiaofei and Ostadabbas, Sarah},
+  booktitle={arXiv preprint: https://arxiv.org/pdf/2105.10996.pdf},
+  year={2022}
+}
+
+
 ```
 
 
